@@ -1,0 +1,5 @@
+{
+  "name": "Number Guessing Challenge",
+  "description": "A colorful and fun number guessing game where you have 5 chances to find the secret number between 1 and 20.",
+  "requestFramePermissions": []
+}
